@@ -8,9 +8,11 @@ This repository contains supporting artefacts developed for my MSc Cyber Securit
 
 ## Contents
 - Cyber Risk Register
-- Governance Checklist
+- Governance Checklist for DPMPTSP
 - Incident Response Flow
 - Cyber Risk Governance Roadmap
+- Governance Checklist (Gap Assessment)
+- The Dissertation File
 
 ## Purpose
 These artefacts demonstrate a practical, low-resource approach to improving cyber risk governance in public sector organisations.
